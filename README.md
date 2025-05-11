@@ -5,9 +5,10 @@ We chose this topic because AR filters are widely used in modern photo and video
 
 # How to execute our project
 
-1. Open each ipnyb file in Google Colab
-2. Upload four filter png files (catEars.png, coolemoji.png, googly.png, mustache.png, sunglasses.png) into the root folder of Google Colab (path would be '/content/~.png')
+1. Open one ipnyb file in Google Colab
+2. Upload all of these filter png files (catEars.png, coolemoji.png, googly.png, mustache.png, sunglasses.png) into the root folder of Google Colab (path would be '/content/~.png')
 3. Open any webcam application and record yourself.
 4. Upload that video to the root folder of Google Colab and name it to input.mp4 (path would be '/content/input.mp4')
 5. Run the cells in ipnyb top to bottom and get output video generated.
 6. Tada! You can see a filter attached on and following your face!
+7. Do the same things for each of four inpyb files.
